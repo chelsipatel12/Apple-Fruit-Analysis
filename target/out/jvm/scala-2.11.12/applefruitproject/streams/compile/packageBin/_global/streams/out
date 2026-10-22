@@ -1,0 +1,24 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\applefruitproject_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$$anonfun$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$$anonfun$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$Fruit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$Fruit$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis$Fruit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis$Fruit.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ApplePriceAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\target\out\jvm\scala-2.11.12\applefruitproject\classes\ApplePriceAnalysis.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
+[0m[[0m[0mdebug[0m] [0m[0mwrote ${OUT}/jvm/scala-2.11.12/applefruitproject/applefruitproject_2.11-0.1.0-SNAPSHOT.jar[0m

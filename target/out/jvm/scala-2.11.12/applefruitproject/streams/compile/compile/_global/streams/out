@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\chels\OneDrive\Desktop\VIT\PYTHON\AppleFruitProject\ApplePriceAnalysis.scala:56:18: missing argument list for method pageHTML in class StaticHTMLRenderer[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `pageHTML _` or `pageHTML(_)` instead of `pageHTML`.[0m
+[0m[[0m[31merror[0m] [0m[0m      chart.html.pageHTML.getBytes(StandardCharsets.UTF_8)[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
